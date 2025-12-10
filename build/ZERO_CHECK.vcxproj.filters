@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alexd\OneDrive\Desktop\Galaxy-Engine\build\CMakeFiles\0164c3d1f1588158f3efb83ddab17583\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6D712793-3B25-38F9-B10F-4601434E7571}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

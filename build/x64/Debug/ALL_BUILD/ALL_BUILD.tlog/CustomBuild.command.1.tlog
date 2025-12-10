@@ -1,0 +1,10 @@
+^C:\USERS\ALEXD\ONEDRIVE\DESKTOP\GALAXY-ENGINE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/alexd/OneDrive/Desktop/Galaxy-Engine -BC:/Users/alexd/OneDrive/Desktop/Galaxy-Engine/build --check-stamp-file C:/Users/alexd/OneDrive/Desktop/Galaxy-Engine/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

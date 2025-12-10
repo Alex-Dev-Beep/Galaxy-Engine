@@ -1,0 +1,10 @@
+^C:\USERS\ALEXD\ONEDRIVE\DESKTOP\GALAXY-ENGINE\BUILD\CMAKEFILES\0164C3D1F1588158F3EFB83DDAB17583\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/alexd/OneDrive/Desktop/Galaxy-Engine -BC:/Users/alexd/OneDrive/Desktop/Galaxy-Engine/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/alexd/OneDrive/Desktop/Galaxy-Engine/build/GalaxyEngine.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
