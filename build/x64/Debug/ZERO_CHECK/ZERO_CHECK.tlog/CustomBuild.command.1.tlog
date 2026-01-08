@@ -1,6 +1,6 @@
-^C:\USERS\ALEXD\ONEDRIVE\DESKTOP\GALAXY-ENGINE\BUILD\CMAKEFILES\0164C3D1F1588158F3EFB83DDAB17583\GENERATE.STAMP.RULE
+^C:\C++ PROJECTS\LEARNING-OPENGL\TRIANGLE\BUILD\CMAKEFILES\890EF7F712B7E28621500FC32811DBBF\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/alexd/OneDrive/Desktop/Galaxy-Engine -BC:/Users/alexd/OneDrive/Desktop/Galaxy-Engine/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/alexd/OneDrive/Desktop/Galaxy-Engine/build/GalaxyEngine.slnx
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/C++ Projects/Learning-OpenGL/Triangle" "-BC:/C++ Projects/Learning-OpenGL/Triangle/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/C++ Projects/Learning-OpenGL/Triangle/build/GalaxyEngine.slnx"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

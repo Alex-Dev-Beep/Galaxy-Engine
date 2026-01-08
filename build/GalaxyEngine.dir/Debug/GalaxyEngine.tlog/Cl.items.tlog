@@ -1,4 +1,5 @@
-C:\Users\alexd\OneDrive\Desktop\Galaxy-Engine\src\app\app.cpp;C:\Users\alexd\OneDrive\Desktop\Galaxy-Engine\build\GalaxyEngine.dir\Debug\app.obj
-C:\Users\alexd\OneDrive\Desktop\Galaxy-Engine\src\main.cpp;C:\Users\alexd\OneDrive\Desktop\Galaxy-Engine\build\GalaxyEngine.dir\Debug\main.obj
-C:\Users\alexd\OneDrive\Desktop\Galaxy-Engine\src\window\window.cpp;C:\Users\alexd\OneDrive\Desktop\Galaxy-Engine\build\GalaxyEngine.dir\Debug\window.obj
-C:\Users\alexd\OneDrive\Desktop\Galaxy-Engine\src\glad.c;C:\Users\alexd\OneDrive\Desktop\Galaxy-Engine\build\GalaxyEngine.dir\Debug\glad.obj
+C:\C++ Projects\Learning-OpenGL\Triangle\src\error\error.cpp;C:\C++ Projects\Learning-OpenGL\Triangle\build\GalaxyEngine.dir\Debug\error.obj
+C:\C++ Projects\Learning-OpenGL\Triangle\src\input\input.cpp;C:\C++ Projects\Learning-OpenGL\Triangle\build\GalaxyEngine.dir\Debug\input.obj
+C:\C++ Projects\Learning-OpenGL\Triangle\src\main.cpp;C:\C++ Projects\Learning-OpenGL\Triangle\build\GalaxyEngine.dir\Debug\main.obj
+C:\C++ Projects\Learning-OpenGL\Triangle\src\renderer\renderer.cpp;C:\C++ Projects\Learning-OpenGL\Triangle\build\GalaxyEngine.dir\Debug\renderer.obj
+C:\C++ Projects\Learning-OpenGL\Triangle\src\glad.c;C:\C++ Projects\Learning-OpenGL\Triangle\build\GalaxyEngine.dir\Debug\glad.obj

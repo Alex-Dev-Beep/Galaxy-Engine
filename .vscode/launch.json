@@ -5,7 +5,7 @@
             "name": "Run GalaxyEngine",
             "type": "cppdbg",
             "request": "launch",
-            "program": "c:/Users/alexd/OneDrive/Desktop/Galaxy-Engine/build/Debug/GalaxyEngine.exe",
+            "program": "C:/C++ Projects/Learning-OpenGL/Triangle/build/Debug/GalaxyEngine.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",

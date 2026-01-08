@@ -1,3 +1,3 @@
-C:/Users/alexd/OneDrive/Desktop/Galaxy-Engine/build/CMakeFiles/GalaxyEngine.dir
-C:/Users/alexd/OneDrive/Desktop/Galaxy-Engine/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/alexd/OneDrive/Desktop/Galaxy-Engine/build/CMakeFiles/ZERO_CHECK.dir
+C:/C++ Projects/Learning-OpenGL/Triangle/build/CMakeFiles/GalaxyEngine.dir
+C:/C++ Projects/Learning-OpenGL/Triangle/build/CMakeFiles/ALL_BUILD.dir
+C:/C++ Projects/Learning-OpenGL/Triangle/build/CMakeFiles/ZERO_CHECK.dir

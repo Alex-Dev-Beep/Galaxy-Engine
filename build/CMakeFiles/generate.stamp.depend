@@ -1,4 +1,9 @@
 # CMake generation dependency list for this directory.
+C:/C++ Projects/Learning-OpenGL/Triangle/CMakeLists.txt
+C:/C++ Projects/Learning-OpenGL/Triangle/build/CMakeFiles/4.2.0-rc3/CMakeCCompiler.cmake
+C:/C++ Projects/Learning-OpenGL/Triangle/build/CMakeFiles/4.2.0-rc3/CMakeCXXCompiler.cmake
+C:/C++ Projects/Learning-OpenGL/Triangle/build/CMakeFiles/4.2.0-rc3/CMakeRCCompiler.cmake
+C:/C++ Projects/Learning-OpenGL/Triangle/build/CMakeFiles/4.2.0-rc3/CMakeSystem.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCInformation.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXInformation.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCommonLanguageInclude.cmake
@@ -30,8 +35,3 @@ C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-MSVC-CXX.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-MSVC.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/WindowsPaths.cmake
-C:/Users/alexd/OneDrive/Desktop/Galaxy-Engine/CMakeLists.txt
-C:/Users/alexd/OneDrive/Desktop/Galaxy-Engine/build/CMakeFiles/4.2.0-rc3/CMakeCCompiler.cmake
-C:/Users/alexd/OneDrive/Desktop/Galaxy-Engine/build/CMakeFiles/4.2.0-rc3/CMakeCXXCompiler.cmake
-C:/Users/alexd/OneDrive/Desktop/Galaxy-Engine/build/CMakeFiles/4.2.0-rc3/CMakeRCCompiler.cmake
-C:/Users/alexd/OneDrive/Desktop/Galaxy-Engine/build/CMakeFiles/4.2.0-rc3/CMakeSystem.cmake

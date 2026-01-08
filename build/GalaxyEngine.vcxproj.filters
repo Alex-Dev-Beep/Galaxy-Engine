@@ -1,25 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\alexd\OneDrive\Desktop\Galaxy-Engine\src\app\app.cpp">
+    <ClCompile Include="C:\C++ Projects\Learning-OpenGL\Triangle\src\error\error.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\alexd\OneDrive\Desktop\Galaxy-Engine\src\main.cpp">
+    <ClCompile Include="C:\C++ Projects\Learning-OpenGL\Triangle\src\input\input.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\alexd\OneDrive\Desktop\Galaxy-Engine\src\window\window.cpp">
+    <ClCompile Include="C:\C++ Projects\Learning-OpenGL\Triangle\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\alexd\OneDrive\Desktop\Galaxy-Engine\src\glad.c">
+    <ClCompile Include="C:\C++ Projects\Learning-OpenGL\Triangle\src\renderer\renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\C++ Projects\Learning-OpenGL\Triangle\src\glad.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\alexd\OneDrive\Desktop\Galaxy-Engine\CMakeLists.txt" />
+    <CustomBuild Include="C:\C++ Projects\Learning-OpenGL\Triangle\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{98A55662-F307-3471-B067-52E574D925B3}</UniqueIdentifier>
+      <UniqueIdentifier>{7C17FA95-0CF8-36D2-8F13-D9A20C434035}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
